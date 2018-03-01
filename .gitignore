@@ -1,0 +1,12 @@
+.git/
+.gitignore
+.hg/
+.hgignore
+.classpath
+.project
+.settings/
+target/
+examples/
+docs/
+xref/
+/target/
